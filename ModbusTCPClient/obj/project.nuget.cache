@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWpfVFpM5v+E9BBODZCSZ3y0+scPHl7LxUxy6uFZq+x4XOxUjwZdL+9BmGnJ6o0jJK0mPDSRCxYDNxF6la3PAQ==",
+  "success": true,
+  "projectFilePath": "/home/solomon/Desktop/personal/Modbus_TCP_Csharp/ModbusTCPClient/ModbusTCPClient.csproj",
+  "expectedPackageFiles": [
+    "/home/solomon/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
