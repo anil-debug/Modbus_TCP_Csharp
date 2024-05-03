@@ -60,7 +60,7 @@ namespace ModbusTCPClient
         static void Main(string[] args)
         {
             // Define the Modbus device's IP address
-            string MODBUS_IP = "10.1.2.190";
+            string MODBUS_IP = "0.0.0.0";
             // Define the data to be sent
             var data = new
             {
